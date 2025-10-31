@@ -1,3 +1,4 @@
 ## Hi there 👋
 
-My name is Israel,im from israel,18 yo, learning sofware engineering right now.
+My name is Israel,
+18 yo, learning software engineering right now.
