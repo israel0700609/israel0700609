@@ -18,7 +18,7 @@ I am a 2nd-year Software Engineering student in the **"Paamei Atidim"** program,
   - **ZK-Proofs:** Experience with Circom and snarkjs.
   - **Network Security:** DNS Exfiltration, Cyber Scanners.
   - **Offensive:** Exploit development and CTF challenges.
-
+- **Focus:** Low-level development, CTFs, Complex System Architecture, Cryptography, and Cyber Security.
 ---
 
 ### 📂 Featured Projects
@@ -36,6 +36,5 @@ I am a 2nd-year Software Engineering student in the **"Paamei Atidim"** program,
 ---
 
 ### 📫 How to reach me
-- **Focus:** Low-level development, CTFs, Complex System Architecture, Cryptography, and Cyber Security.
-- **LinkedIn:** []
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Israel_Cord-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-cord-865a021a0/)
 - **Discord:** [![Discord](https://img.shields.io/badge/Discord-Froggy-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/367328495937912834)
