@@ -26,7 +26,7 @@ I am a 2nd-year Software Engineering student in the **"Paamei Atidim"** program,
 * **[Shadow Auth](https://github.com/israel0700609/ShadowAuth-ZK)** - A secret communication network utilizing **Zero-Knowledge Proofs** for secure authentication.
 * **[Silent Talker](https://github.com/israel0700609/Silent_Talker)** - A tool for covert data communication via **DNS Exfiltration**.
 * **[Pwnable Write-ups](https://github.com/israel0700609/pwnable.kr-writeups)** - A collection of detailed solutions and exploits for various Pwn/Binary Exploitation challenges.
-* **[On the Halting Problem: A Mathematical Perspective](link-to-repo)** - A research paper I authored proposing a solution to the **Halting Problem** using **Calculus (Infinitesimal Theory)** and **Arithmetic Progressions**. This work explores the boundaries of the paradox through a unique mathematical lens.
+* **[On the Halting Problem: A Mathematical Perspective](https://github.com/israel0700609/Halting-problem)** - A research paper I authored proposing a solution to the **Halting Problem** using **Calculus (Infinitesimal Theory)** and **Arithmetic Progressions**. This work explores the boundaries of the paradox through a unique mathematical lens.
 
 ---
 ### 🔍 Explore More
