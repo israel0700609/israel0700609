@@ -34,13 +34,6 @@ I am a 2nd-year Software Engineering student in the **"Paamei Atidim"** program,
 👉 **[Check out all my repositories](https://github.com/israel0700609?tab=repositories)**
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Israel-Cord&show_icons=true&theme=tokyonight&count_private=true" alt="Israel's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Cord&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="170" />
-</p>
----
-
 ### 📫 How to reach me
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Israel_Cord-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-cord-865a021a0/)
 - **Discord:** [![Discord](https://img.shields.io/badge/Discord-Froggy-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/367328495937912834)
