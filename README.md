@@ -14,7 +14,8 @@ I am a 2nd-year Software Engineering student in the **"Paamei Atidim"** program,
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 - **Specialties:** Low-Level Development, Reverse Engineering, OS, Cryptography, Compilation Theory, Cyber Security, and Advanced Mathematics.
-- **Security & Exploitation:** - **ZK-Proofs:** Experience with Circom and snarkjs.
+- **Security & Exploitation:** -
+  - **ZK-Proofs:** Experience with Circom and snarkjs.
   - **Network Security:** DNS Exfiltration, Cyber Scanners.
   - **Offensive:** Exploit development and CTF challenges.
 
