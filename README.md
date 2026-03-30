@@ -7,10 +7,15 @@ I am a 2nd-year Software Engineering student in the **"Paamei Atidim"** program,
 
 ### 🛠️ Tech Stack & Skills
 - **Languages:** ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) 
+
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
+
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
+  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 - **Specialties:** Low-Level Development, Reverse Engineering, OS, Cryptography, Compilation Theory, Cyber Security, and Advanced Mathematics.
