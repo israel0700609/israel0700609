@@ -25,7 +25,7 @@ I am a 2nd-year Software Engineering student in the **"Paamei Atidim"** program,
 * **[Blockchain Diploma Verifier](https://github.com/YuvalThePro/Immutable-Credentials-Blockchain/tree/dev)** - Java-based blockchain system designed to prevent forgery of academic diplomas.
 * **[Shadow Auth](https://github.com/israel0700609/ShadowAuth-ZK)** - A secret communication network utilizing **Zero-Knowledge Proofs** for secure authentication.
 * **[Silent Talker](https://github.com/israel0700609/Silent_Talker)** - A tool for covert data communication via **DNS Exfiltration**.
-* **[Pwnable Write-ups](link-to-repo)** - A collection of detailed solutions and exploits for various Pwn/Binary Exploitation challenges.
+* **[Pwnable Write-ups](https://github.com/israel0700609/pwnable.kr-writeups)** - A collection of detailed solutions and exploits for various Pwn/Binary Exploitation challenges.
 
 ---
 
