@@ -35,9 +35,10 @@ I am a 2nd-year Software Engineering student in the **"Paamei Atidim"** program,
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=israel0700609&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israel0700609&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Israel-Cord&show_icons=true&theme=tokyonight&count_private=true" alt="Israel's Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Cord&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="170" />
+</p>
 ---
 
 ### 📫 How to reach me
