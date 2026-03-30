@@ -38,4 +38,4 @@ I am a 2nd-year Software Engineering student in the **"Paamei Atidim"** program,
 ### 📫 How to reach me
 - **Focus:** Low-level development, CTFs, Complex System Architecture, Cryptography, and Cyber Security.
 - **LinkedIn:** []
-- **Discord:** []
+- **Discord:** [![Discord](https://img.shields.io/badge/Discord-Froggy-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/367328495937912834)
