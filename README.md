@@ -30,7 +30,7 @@ I am a 2nd-year Software Engineering student in the **"Paamei Atidim"** program,
 
 ---
 ### 🔍 Explore More
-Beyond the highlights above, I have many more repositories.  
+- **Beyond the highlights above, I have many more repositories**.  
 👉 **[Check out all my repositories](https://github.com/israel0700609?tab=repositories)**
 ---
 
