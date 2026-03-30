@@ -27,6 +27,11 @@ I am a 2nd-year Software Engineering student in the **"Paamei Atidim"** program,
 * **[Silent Talker](https://github.com/israel0700609/Silent_Talker)** - A tool for covert data communication via **DNS Exfiltration**.
 * **[Pwnable Write-ups](https://github.com/israel0700609/pwnable.kr-writeups)** - A collection of detailed solutions and exploits for various Pwn/Binary Exploitation challenges.
 
+
+---
+### 🔍 Explore More
+Beyond the highlights above, I have many more repositories.  
+👉 **[Check out all my repositories](https://github.com/israel0700609?tab=repositories)**
 ---
 
 ### 📊 GitHub Stats
