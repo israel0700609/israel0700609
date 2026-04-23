@@ -1,7 +1,7 @@
 # Hi there, I'm Israel 👋
 
 ### 🚀 Software Engineering Student
-I am a 2nd-year Software Engineering student in the **"Paamei Atidim"** program, focused on bridging the gap between high-level logic and low-level execution.
+I am a 2nd-year Software Engineering student, focused on bridging the gap between high-level logic and low-level execution.
 
 ---
 
