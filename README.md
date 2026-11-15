@@ -1,11 +1,11 @@
-# Hi there, I'm Israel 👋
+# Hi there, I'm Israel
 
-### 🚀 Software Engineering Student
+### Software Engineering Student
 I am a 3rd-year Software Engineering student, focused on bridging the gap between high-level logic and low-level execution.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 - **Languages:**
 
   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) 
@@ -28,7 +28,7 @@ I am a 3rd-year Software Engineering student, focused on bridging the gap betwee
 - **Focus:** Low-level development, CTFs, Complex System Architecture, Cryptography, and Cyber Security.
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 * **[Blockchain Credential Verifier](https://github.com/YuvalThePro/Immutable-Credentials-Blockchain/tree/dev)** - Java-based blockchain system designed to prevent forgery of academic diplomas.
 * **[Shadow Auth](https://github.com/israel0700609/ShadowAuth-ZK)** - A secret communication network utilizing **Zero-Knowledge Proofs** for secure authentication.
 * **[Silent Talker](https://github.com/israel0700609/Silent_Talker)** - A tool for covert data communication via **DNS Exfiltration**.
@@ -36,11 +36,11 @@ I am a 3rd-year Software Engineering student, focused on bridging the gap betwee
 * **[On the Halting Problem: A Mathematical Perspective](https://github.com/israel0700609/Halting-problem)** - A research paper I authored proposing a solution to the **Halting Problem** using **Calculus (Infinitesimal Theory)** and **Arithmetic Progressions**. This work explores the boundaries of the paradox through a unique mathematical lens.
 
 ---
-### 🔍 Explore More
+### Explore More
 - **Beyond the highlights above, I have many more repositories**.  
-👉 **[Check out all my repositories](https://github.com/israel0700609?tab=repositories)**
+**[Check out all my repositories](https://github.com/israel0700609?tab=repositories)**
 ---
 
-### 📫 How to reach me
+### How to reach me
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Israel_Cord-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-cord-865a021a0/)
 - **Discord:** [![Discord](https://img.shields.io/badge/Discord-Froggy-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/367328495937912834)
